@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-void get(int *p, int n);//»ñÈ¡Ëæ»úÊı´«¸øÊı×é
-void fun(int *p, int n);//Ã°ÅİÅÅĞò·¨£¬Êı×éÔªËØ´Ó´óµ½Ğ¡ÅÅĞò
-void pri(int *p, int n);//´òÓ¡Êı×éÔªËØ
+void get(int *p, int n);//è·å–éšæœºæ•°ä¼ ç»™æ•°ç»„
+void fun(int *p, int n);//å†’æ³¡æ’åºæ³•ï¼Œæ•°ç»„å…ƒç´ ä»å¤§åˆ°å°æ’åº
+void pri(int *p, int n);//æ‰“å°æ•°ç»„å…ƒç´ 
 
 int main(void) {
 	int a[20];
